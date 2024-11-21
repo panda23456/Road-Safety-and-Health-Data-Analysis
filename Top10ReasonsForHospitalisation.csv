@@ -1,0 +1,15 @@
+Disease Condition,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021
+"Accident, poisoning and violence",1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Cancer,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Ischaemic heart diseases,3,3,3,3,3,3,3,3,4,4,4,4,4,3
+Pneumonia,4,5,4,4,5,5,5,4,3,3,3,3,3,
+Obstetric complications affecting fetus or newborn,5,4,6,6,,,,,,,,,,
+Other heart diseases,6,6,5,5,6,4,6,5,6,6,6,6,7,5
+Chronic obstructive lung disease,7,9,7,7,,,,,,,,,,
+Cerebrovascular diseases (Including stroke),8,7,8,9,9,9,9,9,9,9,9,8,8,7
+Diabetes mellitus,,,,,8,8,7,8,10,10,8,10,10,9
+Infections of skin & subcutaneous tissue,9,8,9,8,7,7,8,7,7,7,7,7,6,6
+Intestinal infectious diseases,,10,10,10,4,6,4,6,5,5,5,5,9,8
+Complications related to pregnancy,10,,,,,,,,,,,,,
+"Disorders of gallbladder, biliary tract and pancreas",,,,,,,,,,,,,,10
+Acute upper respiratory infections,,,,,10,10,10,10,8,8,10,9,5,
